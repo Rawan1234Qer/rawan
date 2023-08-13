@@ -4,7 +4,7 @@
 //hamada
 void main(void)
 {
-	printf("MMMMMMMMMMMMMMMMMM");
+	printf("PPPPPPPPPPPPPP");
 	
 	
 	
